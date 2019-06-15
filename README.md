@@ -25,6 +25,8 @@ E depois acesse no seu navegador o endereço: http://localhost:3000
 ## Autores
 João Vitor Cavalcante
 Email: <joaovitor.c.barbosa9888@gmail.com>
+
+
 Renan Meneses
 Email: <renan.dev@outlook.com>
 
